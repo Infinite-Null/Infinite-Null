@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinite-null&show_icons=true&locale=en&layout=compact" alt="infinite-null" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinite-null&show_icons=true&locale=en" alt="infinite-null" /></p>
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=5B74F7&center=true&vCenter=true&random=false&width=647&height=60&lines=Thank+You+%F0%9F%99%8F;Hope+to+see+you+again+%F0%9F%98%81" alt="Typing SVG" /></a></h3>
