@@ -13,8 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Infinite-Null&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma"><img src="https://github-profile-trophy.vercel.app/?username=infinite-null&column=3&theme=nord&no-frame=true" alt="infinite-null" /></a> </p>
-![](https://github-profile-trophy.vercel.app/?username=Infinite-Null&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Infinite-Null&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
