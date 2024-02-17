@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Shah</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinite-null" alt="infinite-null" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=oldie"><img src="https://github-profile-trophy.vercel.app/?username=infinite-null" alt="infinite-null" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ankit-kumar-shah.web.app/](https://portfolio-ankit-kumar-shah.web.app/)
 
