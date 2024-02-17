@@ -1,5 +1,4 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=5B74F7&center=true&vCenter=true&random=false&width=647&lines=Hello+%F0%9F%91%8B;I+am+Ankit+Kumar+Shah+%F0%9F%98%81;A+Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a></h3>
-<h3 align="center">A passionate full stack developer from India</h3>
 
   <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma"><img src="https://github-profile-trophy.vercel.app/?username=infinite-null&column=3&theme=nord&no-frame=true&&rank=-C" alt="infinite-null" /></a> </p>
 
